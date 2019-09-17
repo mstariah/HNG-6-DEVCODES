@@ -3,3 +3,5 @@
 ### Samuel Olumide Oluwole  ~ @OlumideSamuel  ~	Designer / Frontend Developer
 
 ### Samuel S. Danso ~ @ssd  ~ Backend Developer / Git Admin 
+
+### Tariah T. Iwoba ~ @MsTariah ~ Frontend Developer / Designer
